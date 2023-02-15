@@ -1,8 +1,13 @@
 import 'package:flutter/material.dart';
 
-class AttendenceList extends StatelessWidget {
+class AttendenceList extends StatefulWidget {
   AttendenceList({super.key});
 
+  @override
+  State<AttendenceList> createState() => _AttendenceListState();
+}
+
+class _AttendenceListState extends State<AttendenceList> {
   List eventList = ['Event1', 'Event2', 'Event3'];
 
   @override

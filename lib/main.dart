@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mycoldstaff/attendencelist.dart';
+import 'package:mycoldstaff/home.dart';
 
 void main() => runApp(const MyApp());
 
@@ -11,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Material App',
       debugShowCheckedModeBanner: false,
-      home: AttendenceList(),
+      home: Home(),
     );
   }
 }
