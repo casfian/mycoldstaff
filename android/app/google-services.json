@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "238883448538",
+    "project_id": "mycold-d6678",
+    "storage_bucket": "mycold-d6678.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238883448538:android:350631846382f8ed07a7e3",
+        "android_client_info": {
+          "package_name": "my.caspian.mycold"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238883448538-s2969qg7isd9rftbbf129t6khigigo65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Q0WMHAEcEVusnji71TV2AaokKcwSyeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238883448538-s2969qg7isd9rftbbf129t6khigigo65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238883448538-sj5n7k5ra3dsj3pk1ecpbtms4o2270m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "my.caspian.mycold"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238883448538:android:fce7ed476db8f86b07a7e3",
+        "android_client_info": {
+          "package_name": "my.caspian.mycoldstaff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238883448538-s2969qg7isd9rftbbf129t6khigigo65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Q0WMHAEcEVusnji71TV2AaokKcwSyeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238883448538-s2969qg7isd9rftbbf129t6khigigo65.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "238883448538-sj5n7k5ra3dsj3pk1ecpbtms4o2270m0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "my.caspian.mycold"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
